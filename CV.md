@@ -1,5 +1,5 @@
 ---
-title: 0-CV
+title: CV
 nav: true
 ---
 
