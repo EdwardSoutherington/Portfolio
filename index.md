@@ -12,6 +12,8 @@ the text on the home page
 <div class="toc" markdown="1">
 ## Contents:
 
+site.pages
+
 {% for lesson in site.pages %}
 lesson.title
 {% if lesson.nav == true %}- [{{ lesson.title }}]({{ lesson.url | absolute_url }}){% endif %}
