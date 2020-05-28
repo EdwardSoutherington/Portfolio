@@ -1,21 +1,11 @@
-<li>
-  {% assign base = 'https://www.linkedin.com/in/'%}
-  {% assign username = site.edward-southerington/ %}
-  {% assign linkedInLink = base | append:  username %}
-  <a href="{{linkedInLink}}" class="social-link">
-    <span class="fab fa-linkedin"></span>
-    </a>
-</li>
-<li>
-  {% assign base = 'https://github.com/'%}
-  {% assign username = site.EdwardSoutherington %}
-  {% assign githubLink = base | append:  username %}
-  <a href="{{githubLink}}" class="social-link">
-    <span class="fab fa-github"></span>
-  </a>
-</li>
-<li>
-  <a href="mailto:{{site.email}}" class="social-link">
-    <span class="fa fa-envelope"></span>
-  </a>
-</li>
+{% if site.data.social-media %}
+<div id="social-media">
+    {% assign sm = site.data.social-media %}
+    {% for entry in site.data.social-media %}
+    {% assign key = entry | first %}
+        {% if sm[key].id %}
+            <a href="{{ sm[key].href }}{{ sm[key].id }}" title="{{ sm[key].title }}" rel="me"><i class="fa {{ sm[key].fa-icon }}"></i></a>
+    {% endif %}
+    {% endfor %}
+</div>
+{% endif %}
