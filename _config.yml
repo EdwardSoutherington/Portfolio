@@ -1,0 +1,31 @@
+# site settings
+title: Edward Southerington
+description: Analyst with a MSc in Economics and an Area of Expertise in Business and Data Analytics from Nova School of Business and Economics in Portugal. Holding a Bachelor of Laws and Bachelor of Business from La Trobe University, Australia.
+keywords: "Edward Southerington"
+
+# author settings for cc-by
+author: Edward Southerington
+pub_year: 2020
+github_username: Edward Southerington
+
+# add the full url for the github repository
+repo: "https://github.com/EdwardSoutherington/Portfolio"
+
+# urls
+# your gh-pages url: https://username.github.io
+url: https://EdwardSoutherington.github.io
+# your repository name: /repository
+baseurl: /Portfolio
+
+# analytics if desired (and use environment variable on build command)
+#google_analytics: UA-74844011-1        #
+
+# defaults (to simplify front matter)
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
+
+# Build settings
+markdown: kramdown
