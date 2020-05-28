@@ -1,5 +1,5 @@
 ---
-title: 1-Projects
+title: Projects
 nav: true
 ---
 
