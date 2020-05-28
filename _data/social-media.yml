@@ -53,7 +53,7 @@ youtube:
   fa-icon: 'fa-youtube'
 
 rss:
-  id: '/feed.xml'
+  id:
   href:
   title: 'RSS'
   fa-icon: 'fa-rss-square'
