@@ -1,5 +1,6 @@
 ---
 title: 0-CV
+nav: true
 ---
 
 # CV
