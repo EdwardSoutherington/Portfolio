@@ -5,9 +5,9 @@
         
     {% assign key = entry | first %}
         {% if sm[key].id %}
-            {{sm[key].title}}
-            {{sm[key].fa-icon}}
-            {{sm[key].href}}
+            {{ sm[key].href }}{{ sm[key].id }}
+            {{ sm[key].title }}
+            {{ sm[key].fa-icon }}
             <a href="{{ sm[key].href }}{{ sm[key].id }}" title="{{ sm[key].title }}" rel="me"><i class="fa {{ sm[key].fa-icon }}"></i></a>
     {% endif %}
     {% endfor %}
