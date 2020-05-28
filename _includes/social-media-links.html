@@ -7,7 +7,7 @@
         {% if sm[key].id %}
             {{ sm[key].href }}{{ sm[key].id }}
             {{ sm[key].title }}
-            {{ sm[key].fa-icon }}
+            {{fab  | sm[key].fa-icon }}
             <a href="{{ sm[key].href }}{{ sm[key].id }}" title="{{ sm[key].title }}"><i class="fab {{ sm[key].fa-icon }}"></i></a>
     {% endif %}
     {% endfor %}
