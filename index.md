@@ -13,6 +13,7 @@ the text on the home page
 ## Contents:
 
 {% for lesson in site.pages %}
+lesson
 {% if lesson.nav == true %}- [{{ lesson.title }}]({{ lesson.url | absolute_url }}){% endif %}
 {% endfor %}
 </div>
