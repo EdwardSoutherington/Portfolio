@@ -1,5 +1,5 @@
 ---
-title: Projects
+title: R Projects
 nav: true
 ---
 
