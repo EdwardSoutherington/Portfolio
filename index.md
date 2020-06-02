@@ -2,7 +2,9 @@
 title: Home
 ---
 
-<p align="center"> # Edward Southerington </p>
+  <p align="center"> 
+    <span style="font-size:larger;">Edward Southerington</span> 
+  </p>
 
 ## Analysis Portfolio
 
