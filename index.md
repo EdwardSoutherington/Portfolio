@@ -2,9 +2,9 @@
 title: Home
 ---
 
-Edward Southerington
+# Edward Southerington
 
-Analysis Portfolio
+## Analysis Portfolio
 
 MSc in Economics Graduate from Nova School of Business and Economics
 
