@@ -2,7 +2,7 @@
 title: Home
 ---
 
-# Edward Southerington
+<p align="center"> # Edward Southerington </p>
 
 ## Analysis Portfolio
 
