@@ -2,12 +2,12 @@
 title: Home
 ---
 
-#Edward Southerington
+Edward Southerington
 
-## Portfolio and CV
+Analysis Portfolio
 
-the text on the home page
-
+MSc in Economics Graduate from Nova School of Business and Economics
+Bacehlor of Laws / Bachelor of Business Under-graguate from La Trobe University
 
 <div class="toc" markdown="1">
 ## Contents:
