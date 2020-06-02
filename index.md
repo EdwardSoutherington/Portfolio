@@ -1,7 +1,11 @@
 ---
 title: Home
 ---
-
+<html>
+   <body>
+     <h1>Document</h1>
+     </body>
+  
   <p align="center"> 
     <span style="font-size:larger;">Edward Southerington</span> 
   </p>
