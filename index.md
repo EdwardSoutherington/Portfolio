@@ -11,7 +11,9 @@ title: Home
     background: white;
     font-size:30px;}
   
-   .item2 {background: white;}
+   .item2 {
+    background: white;
+    font-size:30px;}
   
    .item3 {background: white;}
   
@@ -64,9 +66,9 @@ title: Home
  
   <div class="container">
    <div class="item1">Python Projects</div>
-   <div class="item2">1st R Projeect coming Wednesday 17th of June</div>
+   <div class="item2">R Projects</div>
    <div class="item3">1st Python Project coming Wednesday 10th of June</div>
-   <div class="item3">R Projects.....</div>
+   <div class="item3">1st R Projeect coming Wednesday 17th of June</div>
   </div>
   
  </body>
