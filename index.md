@@ -6,7 +6,9 @@ title: Home
   </head>
   <body>
    <style>
-   .item1 {background: white;}
+   .item1 {
+    background: white;
+    font-size:30px;}
   
    .item2 {background: white;}
   
@@ -51,7 +53,7 @@ title: Home
     <div class="image"> <!-- the image container -->
      <img src="assets/img/hero/Montreaux.jpeg" alt="" /> <!-- the image -->
      <h2>
-     <span>Edward Southerington<span class='spacer'></span><br /><span class='spacer'></span>Economist / Data Scientist</span> <!-- span tag to beautify it efficiently -->
+     <span>Edward Southerington<span class='spacer'></span><br /><span class='spacer'></span>Economist / Data Analyst</span> <!-- span tag to beautify it efficiently -->
      </h2> <!-- the text -->
      </div>
     <h1 align="center">Edward Southerington</h1>
@@ -61,8 +63,8 @@ title: Home
  
   <div class="container">
    <div class="item1">Python Projects</div>
-   <div class="item2">R Projects</div>
-   <div class="item3">Python Projects.....</div>
+   <div class="item2">1st R Projeect coming Wednesday 17th of June</div>
+   <div class="item3">1st Python Project coming Wednesday 10th of June</div>
    <div class="item3">R Projects.....</div>
   </div>
   
