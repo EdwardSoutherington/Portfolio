@@ -2,32 +2,30 @@
 title: Home
 ---
 <html>
- <style>
-  .item1 {background: white;}
-  
-  .item2 {background: white;}
-  
-  .item3 {background: white;}
-  
-  .item4{background: white;}
-  
-  .container { 
-    font-size:40px;
-    min-height:300px
-    width: 100%;
-    background: white;
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    grid-template-rows: 1fr 1fr;
-    grid-gap:10px;
-    display: inline-block;
-   }
- </style>
- 
- 
  <head>
   </head>
   <body>
+   <style>
+   .item1 {background: white;}
+  
+   .item2 {background: white;}
+  
+   .item3 {background: white;}
+  
+   .item4{background: white;}
+  
+   .container { 
+     font-size:40px;
+     min-height:300px
+     width: 100%;
+     background: white;
+     display: grid;
+     grid-template-columns: 1fr 1fr;
+     grid-template-rows: 1fr 1fr;
+     grid-gap:10px;
+     display: inline-block;
+   }
+ </style>
     <h1 align="center">Edward Southerington</h1>
     <p style="color: blue" align="center">MSc in Economics Graduate, Nova School of Business and Economics</p>
     <p style="color: blue" align="center">Bachelor of Laws / Bachelor of Business Under-graduate, La Trobe University</p>
