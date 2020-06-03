@@ -58,8 +58,8 @@ title: Home
      <span>Edward Southerington<span class='spacer'></span><br /><span class='spacer'></span>Economist / Data Analyst</span>      <!-- span tag to beautify it efficiently -->
      </h2> <!-- the text -->
      </div>
-    <p style="color: blue" align="center">MSc in Economics Graduate, Nova School of Business and Economics</p>
-    <p style="color: blue" align="center">Bachelor of Laws / Bachelor of Business Under-graduate, La Trobe University</p>
+    <!--<p style="color: blue" align="center">MSc in Economics Graduate, Nova School of Business and Economics</p>
+    <p style="color: blue" align="center">Bachelor of Laws / Bachelor of Business Under-graduate, La Trobe University</p>-->
  
   <div class="container">
    <div class="item1">Python Projects</div>
