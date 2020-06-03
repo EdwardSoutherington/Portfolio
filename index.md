@@ -6,20 +6,16 @@ title: Home
   </head>
   <body>
     <h1 align="center">Edward Southerington</h1>
-    <h2>Edward Southerington</h2>
-    <p style="color: blue">MSc in Economics Graduate from Nova School of Business and Economics
-
-    Bacehlor of Laws / Bachelor of Business Under-graguate from La Trobe University</p>
-     <div>This is a div.</div>
-
+    <p style="color: blue" align="center">MSc in Economics Graduate, Nova School of Business and Economics</p>
+    <p style="color: blue" align="center">Bacehlor of Laws / Bachelor of Business Under-graguate, La Trobe University</p>
   </body>
 </html>
 
 ## Analysis Portfolio
 
-MSc in Economics Graduate from Nova School of Business and Economics
+MSc in Economics Graduate, Nova School of Business and Economics
 
-Bacehlor of Laws / Bachelor of Business Under-graguate from La Trobe University
+Bacehlor of Laws / Bachelor of Business, La Trobe University
 
 <div class="toc" markdown="1">
 ## Contents:
