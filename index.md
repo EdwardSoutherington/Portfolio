@@ -33,7 +33,7 @@ title: Home
    h2 
    { 
    position: absolute; /* To place the text on the image*/
-   top: 200px; /* The exact location of the text from the top of the image*/
+   top: 150px; /* The exact location of the text from the top of the image*/
    left: 0; /* Other beautification stuff */
    width: 100%; 
    }
@@ -51,7 +51,7 @@ title: Home
     <div class="image"> <!-- the image container -->
      <img src="assets/img/hero/Montreaux.jpeg" alt="" /> <!-- the image -->
      <h2>
-     <span>A Movie in the Park:<span class='spacer'></span><br /><span class='spacer'></span>Kung Fu Panda</span> <!-- span tag to beautify it efficiently -->
+     <span>Edward Southerington<span class='spacer'></span><br /><span class='spacer'></span>Kung Fu Panda</span> <!-- span tag to beautify it efficiently -->
      </h2> <!-- the text -->
      </div>
     <h1 align="center">Edward Southerington</h1>
