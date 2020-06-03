@@ -40,6 +40,37 @@ title: Home
 
 <h2>Two Equal Columns</h2>
 
+<div>
+    <div style="float: left; width: 50%;">
+        <ul style="float: right;">
+            <li>
+                <i class="fa fa-check"></i> Item 1
+            </li>
+            <li>
+                <i class="fa fa-check"></i> Item 2
+            </li>
+            <li>
+                <i class="fa fa-check"></i> Item 3
+            </li>
+        </ul>
+    </div>
+    <div style="float: right; width: 50%;">
+        <ul>
+            <li>
+                <i class="fa fa-check"></i> Item 4
+            </li>
+            <li>
+                <i class="fa fa-check"></i> Item 5
+            </li>
+            <li>
+                <i class="fa fa-check"></i> Item 6
+            </li>
+        </ul>
+    </div>
+</div>
+
+
+
 <div class="row">
   <div class="column" style="background-color:#bbb>
     <h2>Column 1</h2>
