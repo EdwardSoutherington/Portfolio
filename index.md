@@ -55,7 +55,7 @@ title: Home
     <div class="image"> <!-- the image container -->
      <img src="assets/img/hero/Montreaux.jpeg" alt="" /> <!-- the image -->
      <h2>
-     <span>Edward Southerington<span class='spacer'></span><br /><span class='spacer'></span>Economist / Data Analyst</span>       {% include social-media-links.html %} <!-- span tag to beautify it efficiently -->
+     <span>Edward Southerington<span class='spacer'></span><br /><span class='spacer'></span>Economist / Data Analyst</span>      <!-- span tag to beautify it efficiently -->
      </h2> <!-- the text -->
      </div>
     <p style="color: blue" align="center">MSc in Economics Graduate, Nova School of Business and Economics</p>
