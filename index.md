@@ -38,10 +38,8 @@ title: Home
 </head>
 <body>
 
-<h2>Two Equal Columns</h2>
-
 <div>
-    <div style="float: left; width: 50%;">
+    <div style="float: left; width: 100%;">
         <ul style="float: right;">
             <li>
                 <i class="fa fa-check"></i> Item 1
@@ -54,7 +52,7 @@ title: Home
             </li>
         </ul>
     </div>
-    <div style="float: right; width: 50%;">
+    <div style="float: right; width: 100%;">
         <ul>
             <li>
                 <i class="fa fa-check"></i> Item 4
@@ -70,17 +68,6 @@ title: Home
 </div>
 
 
-
-<div class="row">
-  <div class="column" style="background-color:#bbb>
-    <h2>Column 1</h2>
-    <p>Some text..</p>
-  </div>
-  <div class="column" style="background-color:#bbb;>
-    <h2 align="center">Column 2</h2>
-    <p align="center">Some text..</p>
-  </div>
-</div>
 
 </body>
 </html>
