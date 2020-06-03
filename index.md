@@ -34,15 +34,15 @@ title: Home
     <p style="color: blue" align="center">MSc in Economics Graduate, Nova School of Business and Economics</p>
     <p style="color: blue" align="center">Bachelor of Laws / Bachelor of Business Under-graduate, La Trobe University</p>
     <h1 align="center">Data Analysis Portfolio</h1>
-  </body>
-
  
- <div class="container">
-  <div class="item1">Python Projects</div>
-  <div class="item2">R Projects</div>
-  <div class="item3">Python Projects.....</div>
-  <div class="item3">R Projects.....</div>
- </div>
+  <div class="container">
+   <div class="item1">Python Projects</div>
+   <div class="item2">R Projects</div>
+   <div class="item3">Python Projects.....</div>
+   <div class="item3">R Projects.....</div>
+  </div>
+  
+ </body>
 </html>
   
   
