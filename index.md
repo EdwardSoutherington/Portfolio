@@ -2,18 +2,7 @@
 title: Home
 ---
 <html>
-  <head>
-  </head>
-  <body>
-    <h1 align="center">Edward Southerington</h1>
-    <p style="color: blue" align="center">MSc in Economics Graduate, Nova School of Business and Economics</p>
-    <p style="color: blue" align="center">Bachelor of Laws / Bachelor of Business Under-graduate, La Trobe University</p>
-    <h1 align="center">Data Analysis Portfolio</h1>
-    <h2 align="center">Python Projects</h2><h2 align="center">R Projects</h2>
-  </body>
-
-
-<style>
+ <style>
   .item1 {background: white;}
   
   .item2 {background: white;}
@@ -36,6 +25,17 @@ title: Home
     margin-left: -50px;
    }
  </style>
+ 
+ 
+ <head>
+  </head>
+  <body>
+    <h1 align="center">Edward Southerington</h1>
+    <p style="color: blue" align="center">MSc in Economics Graduate, Nova School of Business and Economics</p>
+    <p style="color: blue" align="center">Bachelor of Laws / Bachelor of Business Under-graduate, La Trobe University</p>
+    <h1 align="center">Data Analysis Portfolio</h1>
+  </body>
+
  
  <div class="container">
   <div class="item1">Python Projects</div>
