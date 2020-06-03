@@ -31,6 +31,9 @@ title: Home
     grid-template-columns: 1fr 1fr;
     grid-template-rows: 1fr 1fr;
     grid-gap:10px;
+    position: absolute;
+    left: 50%;
+    margin-left: -50px;
    }
  </style>
  
@@ -38,7 +41,7 @@ title: Home
   <div class="item1">Python Projects</div>
   <div class="item2">R Projects</div>
   <div class="item3">Python Projects.....</div>
-  <div class="item3">Python Projects.....</div>
+  <div class="item3">R Projects.....</div>
  </div>
   
   
