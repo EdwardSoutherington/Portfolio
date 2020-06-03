@@ -13,75 +13,32 @@ title: Home
   </body>
 </html>
 
-<head>
-<meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
-* {
-  box-sizing: border-box;
-}
-
-/* Create two equal columns that floats next to each other */
-.column {
-  float: left;
-  width: 50%;
-  padding: 10px;
-  height: 300px; /* Should be removed. Only for demonstration */
-}
-
-/* Clear floats after the columns */
-.row:after {
-  content: "";
-  display: table;
-  clear: both;
-}
-</style>
-</head>
-<body>
-
-<div class="row">
-   <div class="column" style="background-color:#bbb>
-     <h2>Column 1</h2>
-     <p>Some text..</p>
-   </div>
-   <div class="column" style="background-color:#bbb;>
-     <h2>Column 2</h2>
-     <p>Some text..</p>
-   </div>
+  .item1 {background: white;}
+  
+  .item2 {background: white;}
+  
+  .item3 {background: white;}
+  
+  .item4{background: white;}
+  
+  .container { 
+    font-size:40px;
+    min-height:300px
+    width: 100%;
+    background: white;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr 1fr;
+    grid-gap:10px;
+   }
+ </style>
+ 
+ <div class="container">
+  <div class="item1">Python Projects</div>
+  <div class="item2">R Projects</div>
+  <div class="item3">Python Projects.....</div>
+  <div class="item3">Python Projects.....</div>
  </div>
-
-
-<div>
-    <div style="float: left; width: 100%;">
-        <ul style="float: right;">
-            <li>
-                <i class="fa fa-check"></i> Item 1
-            </li>
-            <li>
-                <i class="fa fa-check"></i> Item 2
-            </li>
-            <li>
-                <i class="fa fa-check"></i> Item 3
-            </li>
-        </ul>
-    </div>
-    <div style="float: right; width: 100%;">
-        <ul>
-            <li>
-                <i class="fa fa-check"></i> Item 4
-            </li>
-            <li>
-                <i class="fa fa-check"></i> Item 5
-            </li>
-            <li>
-                <i class="fa fa-check"></i> Item 6
-            </li>
-        </ul>
-    </div>
-</div>
-
-
-
-</body>
-</html>
-
-
+  
+  
