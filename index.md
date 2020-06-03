@@ -7,11 +7,13 @@ title: Home
   <body>
     <h1 align="center">Edward Southerington</h1>
     <p style="color: blue" align="center">MSc in Economics Graduate, Nova School of Business and Economics</p>
-    <p style="color: blue" align="center">Bacehlor of Laws / Bachelor of Business Under-graguate, La Trobe University</p>
+    <p style="color: blue" align="center">Bachelor of Laws / Bachelor of Business Under-graduate, La Trobe University</p>
+    <h1 align="center">Data Analysis Portfolio</h1>
+    <h2 align="center">Python Projects</h2><h2 align="center">R Projects</h2>
   </body>
 </html>
 
-## Analysis Portfolio
+
 
 MSc in Economics Graduate, Nova School of Business and Economics
 
