@@ -11,7 +11,7 @@ title: Home
     <h1 align="center">Data Analysis Portfolio</h1>
     <h2 align="center">Python Projects</h2><h2 align="center">R Projects</h2>
   </body>
-</html>
+
 
 <style>
   .item1 {background: white;}
@@ -43,5 +43,6 @@ title: Home
   <div class="item3">Python Projects.....</div>
   <div class="item3">R Projects.....</div>
  </div>
+</html>
   
   
