@@ -15,7 +15,7 @@ title: Home
    .item4{background: white;}
   
    .container { 
-     font-size:40px;
+     font-size:20px;
      min-height:300px
      width: 100%;
      background: white;
