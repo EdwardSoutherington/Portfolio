@@ -5,7 +5,7 @@ title: Home
  <head>
   </head>
   <body>
-   background:black;
+   {background:black;}
    <style>
    .item1 {
     background: white;
