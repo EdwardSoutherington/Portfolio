@@ -65,7 +65,7 @@ title: Home
    <div class="item1">Python Projects</div>
    <div class="item2">R Projects</div>
    <div class="item3">1st Python Project coming Wednesday 10th of June</div>
-   <div class="item3">1st R Projeect coming Wednesday 17th of June</div>
+   <div class="item3">1st R Project coming Wednesday 17th of June</div>
   </div>
   
  </body>
