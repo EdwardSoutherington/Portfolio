@@ -28,7 +28,7 @@ title: Home
  .image 
    { 
    position: relative; /* To help the image + text element to get along with the rest of the page*/ 
-   width: 100%; /* for IE 6 */ 
+   width: 150%; /* for IE 6 */ 
    } 
    h2 
    { 
