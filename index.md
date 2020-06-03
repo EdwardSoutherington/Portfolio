@@ -20,9 +20,7 @@ title: Home
     grid-template-columns: 1fr 1fr;
     grid-template-rows: 1fr 1fr;
     grid-gap:10px;
-    position: absolute;
-    left: 50%;
-    margin-left: -50px;
+    display: inline-block;
    }
  </style>
  
