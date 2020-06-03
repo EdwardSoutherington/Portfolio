@@ -23,7 +23,7 @@ title: Home
      grid-template-columns: 1fr 1fr;
      grid-template-rows: 1fr 1fr;
      grid-gap:10px;
-     display: inline-block;
+     text-align: center;
    }
  </style>
     <h1 align="center">Edward Southerington</h1>
