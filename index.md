@@ -5,8 +5,7 @@ title: Home
   <head>
   </head>
   <body>
-
-    <h1 >Edward Southerington</h1>
+    <h1 align="center">Edward Southerington</h1>
     <h2>Edward Southerington</h2>
     <p style="color: blue">MSc in Economics Graduate from Nova School of Business and Economics
 
